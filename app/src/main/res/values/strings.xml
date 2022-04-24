@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Simple Designe Login</string>
+    <string name="app_name">Tasks</string>
 
     <string name="userName">User Name:</string>
     <string name="password">Paswsword</string>
